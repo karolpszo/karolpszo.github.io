@@ -1,2 +1,0 @@
-# karolsWebsite
-My personal website.
