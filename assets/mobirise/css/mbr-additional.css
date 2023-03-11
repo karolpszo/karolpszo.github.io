@@ -682,6 +682,20 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-tydj0PLu2G {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-tydj0PLu2G .line {
+  background-color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tydj0PLu2G .mbr-text {
+  color: #ffffff;
+}
 .cid-s48MCQYojq {
   background-image: url("../../../assets/images/wp11261618-macos-ventura-wallpapers-2000x2000.jpg");
 }
@@ -1038,11 +1052,6 @@ a {
   display: flex;
   margin: auto;
 }
-@media (min-width: 992px) {
-  .cid-ty746lQGBb .container {
-    flex-wrap: nowrap;
-  }
-}
 .cid-ty746lQGBb .iconfont-wrapper {
   color: #000000 !important;
   font-size: 1.5rem;
@@ -1084,7 +1093,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0.2);
+  background: #000000;
 }
 .cid-ty746lQGBb .navbar.opened {
   transition: all 0.3s;
@@ -1260,7 +1269,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-ty746lQGBb button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
